@@ -1,0 +1,5 @@
+sqlite3
+requests
+os
+fake_useragent
+telebot
